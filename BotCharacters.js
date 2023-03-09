@@ -32,7 +32,7 @@
 
 /* ---Added Anime Character list---  /
 
- 0 --- Atlas MD
+ 0 --- Hinata
  1 --- Power
  2 --- Makima
  3 --- Denji
@@ -67,14 +67,14 @@ Don't forget to change "charlist.js" and "setchar.js" insdide "Commands\Mods\"  
 
 
 global.charID0 = {
-    botName : "Atlas MD",
-    botVideo : "https://graph.org/file/e3b2ee218b98b8679bf98.mp4",
-    botImage1 : "https://i.imgur.com/MClOeqe.jpeg",
-    botImage2 : "https://i.imgur.com/MClOeqe.jpeg",
-    botImage3 : "https://i.imgur.com/MClOeqe.jpeg",
-    botImage4 : "https://i.imgur.com/MClOeqe.jpeg",
-    botImage5 : "https://i.imgur.com/MClOeqe.jpeg",
-    botImage6 : "https://i.imgur.com/MClOeqe.jpeg",
+    botName : "Hinata",
+    botVideo : "https://graph.org/file/8772bc2a691f169e64977.mp4",
+    botImage1 : "https://i.imgur.com/7mDZmwW.jpg",
+    botImage2 : "https://i.imgur.com/5EUMFt2.jpg",
+    botImage3 : "https://i.imgur.com/VhpMdxv.jpg",
+    botImage4 : "https://i.imgur.com/BtWBySB.jpg",
+    botImage5 : "https://i.imgur.com/B69bpbU.jpg",
+    botImage6 : "https://i.imgur.com/hQ5qysw.jpg",
 }
 
 global.charID1 = {
